@@ -25,7 +25,8 @@
   
 
     /* Glassmorphism */
-    --glass-bg: rgba(150, 50, 150, 0.15); /* Transparent pinkish-purple */
+    --glass-bg: rgba(255, 182, 193, 0.15); /* Light pink */
+ 
     --glass-border: rgba(255, 100, 255, 0.3); /* Light border for glass effect */
     --blur: 12px;
     
