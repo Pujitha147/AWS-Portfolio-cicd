@@ -67,7 +67,8 @@
 body {
   font-family: "Poppins", sans-serif;
   font-size: 1.1rem;
-  color: var(--color-white);
+  /*color: var(--color-white);*/
+  background-color: lightpink;
   background: linear-gradient(-45deg, var(--bg1), var(--bg2), var(--bg3), var(--bg1));
   background-size: 300% 300%;
   animation: gradientFlow 10s infinite alternate ease-in-out;
